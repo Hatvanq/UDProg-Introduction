@@ -1,8 +1,10 @@
 #include "std_lib_facilities.h"
 
-int main()
+int main() 
 {
-	cout << "Hello, world!\n";
 
-	return 0;
+ cout << "Hello, World!\n"; keep_window_open();
+
+return 0;
+
 }
